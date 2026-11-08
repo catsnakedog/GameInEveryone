@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0029b15e2c6f6d418bd9a139a37a092, type: 3}
+  m_Name: BoxDropTable
+  m_EditorClassIdentifier: Assembly-CSharp::BoxDropTable
+  boxName: Delivery box
+  price: 4
+  choiceCount: 3
+  itemTable: {fileID: 11400000, guid: 1f98bb9ad7dd8fe4fb0f7a4ba1a46c24, type: 2}
+  rarityRates:
+  - rarity: 0
+    weight: 70
+  - rarity: 1
+    weight: 25
+  - rarity: 2
+    weight: 5

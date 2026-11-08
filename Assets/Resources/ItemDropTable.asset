@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17a64745a2294bc4181590f463572424, type: 3}
+  m_Name: ItemDropTable
+  m_EditorClassIdentifier: Assembly-CSharp::ItemDropTable
+  items:
+  - block: {fileID: 5069838801680113033, guid: f767572df26563c439782f499ec67114, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - "\uAC8C\uC784"
+    - "\uB625\uAC9C"
+    - "\uB625\uAC9C\uD50C\uB808\uC774\uC5B4"
+  - block: {fileID: 6112168849921241270, guid: 8d971529b252f8f43a074f587b83d782, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - "\uAC8C\uC784"
+    - "\uD3C9\uBC94\uAC9C"
+    - "\uC77C\uBC18\uC778"
+  - block: {fileID: 2678577871074748833, guid: 92e3c69cb0cc72743a63134e07e12aa8, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - "\uC778\uAC04"
+    - "\uB625\uAC9C"
+    - "\uB625\uAC9C\uD50C\uB808\uC774\uC5B4"
+  - block: {fileID: 4158677805722951998, guid: bf3c7e2406f4a1945b9877b8428cd23c, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - "\uAC8C\uC784"
+    - "\uAC13\uAC9C"
+    - "\uAC13\uAC9C\uD50C\uB808\uC774\uC5B4"
+  - block: {fileID: 339530074026857385, guid: bdb356d25da7432469a738529e52f736, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - "\uC778\uAC04"
+    - "\uAC13\uAC9C"
+    - "\uAC13\uAC9C\uD50C\uB808\uC774\uC5B4"
+  - block: {fileID: 5260267251889765785, guid: cd6c0eef1b572d1449780e16d5479aa9, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - "\uC778\uAC04"
+    - "\uBC29\uC1A1"
+  - block: {fileID: 2769241735068756040, guid: fe4098bd8b617254fb01e224c43576a1, type: 3}
+    relic: {fileID: 0}
+    rarity: 2
+    weight: 1
+    tags:
+    - "\uD2B9\uC218"
+    - "\uBC29\uC1A1"
+  - block: {fileID: 4770212033270153293, guid: b5cf1a1c66556a540af301fc458c6ed3, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - "\uC778\uAC04"
+    - "\uD3C9\uBC94\uAC9C"
+    - "\uC77C\uBC18\uC778"
+  - block: {fileID: 2560483106113370204, guid: 662cb363743d02b49ae3ee3dd447c391, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - LOL
+  - block: {fileID: 8709344040787252832, guid: ed7cf2e979e56f44bb513def3c19c5cf, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - LOL
+  - block: {fileID: 6806089978283194604, guid: bda34ae262688e24f85da24c74dc6e24, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - LOL
+  - block: {fileID: 2897786361647751991, guid: 38afdf7d859721f4ead1c8847ba8e7c6, type: 3}
+    relic: {fileID: 0}
+    rarity: 2
+    weight: 1
+    tags:
+    - LOL
+  - block: {fileID: 7845868883654214546, guid: 5babe8af6db0f6a4dab7e5e725057f93, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - LOL
+  - block: {fileID: 4357470268282619407, guid: 73afae8eea657ea47af6ea16933c58d3, type: 3}
+    relic: {fileID: 0}
+    rarity: 2
+    weight: 1
+    tags:
+    - LOL
+  - block: {fileID: 527422746574759474, guid: a31dc9d48f977eb48b4516c536b52695, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - LOL
+  - block: {fileID: 808644415485346605, guid: d284caf588cd6114c94a0f5634fca0c0, type: 3}
+    relic: {fileID: 0}
+    rarity: 2
+    weight: 1
+    tags:
+    - LOL
+  - block: {fileID: 4396255531896036653, guid: 71142d1a0160c3c40b4e799d7c612078, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - LOL
+  - block: {fileID: 7593423631633389063, guid: 531d5007c40519648a121f9e48213a34, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - LOL
+  - block: {fileID: 3546669749656921435, guid: df9a6797b79651e41a22a6fc7aeeb79a, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 969911333745748749, guid: 81f41174e97e4ef45b437a3b513a4554, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 6453906343845236980, guid: f612d052628cf49429b5a83601897a79, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 1996869746282531124, guid: f58ab45de8f271348951b0369f7d1040, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 1994074969779704169, guid: 0cf6af544037cbf4797189d649ede359, type: 3}
+    relic: {fileID: 0}
+    rarity: 2
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 7589115096771760812, guid: d6623bcca20cef44fb25bb7ff0882374, type: 3}
+    relic: {fileID: 0}
+    rarity: 2
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 8362810950392655175, guid: c0815d85da98ab3488329db4fbc3407f, type: 3}
+    relic: {fileID: 0}
+    rarity: 0
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 2346931534372638258, guid: f67d3d3e306b13745a10bb41a261b542, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 3504640309616235213, guid: 9c3884e3893cb0942926e661bf2c16d2, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 2114201261343288749, guid: 79cf705575dd6c84a91b5925bd84de15, type: 3}
+    relic: {fileID: 0}
+    rarity: 2
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 1767056556877389655, guid: 727763c45368685499840c78ab90314e, type: 3}
+    relic: {fileID: 0}
+    rarity: 2
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 16110341315002923, guid: f8914d023f278844cbc2fe360e45cf0a, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 2680253879577530251, guid: 8db9a398c5c1e8e4894e1c6e31e72297, type: 3}
+    relic: {fileID: 0}
+    rarity: 1
+    weight: 1
+    tags:
+    - "\uAC13\uAC9C \uC131\uC7A5"
+  - block: {fileID: 0}
+    relic: {fileID: 11400000, guid: a01e6e3c592b49e429f9f219427f4742, type: 2}
+    rarity: 2
+    weight: 1
+    tags:
+    - "\uC720\uBB3C"
+    - LOL
